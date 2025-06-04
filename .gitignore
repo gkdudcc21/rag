@@ -1,0 +1,6 @@
+## 파일
+.env
+
+## 폴더
+chroma/
+chroma2/chroma.sqlite3
